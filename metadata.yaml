@@ -1,15 +1,21 @@
 _repo: History-Manners-and-Customs-of-The-Indian-Nations-who-once-Inhabited-Pennsylvania-and-the-Nei__50350
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Reichel, William C.
     gutenberg_agent_id: '45831'
     url: http://www.gutenberg.org/2009/agents/45831
+covers:
+- cover_type: archival
+  image_path: 50350-h/images/cover.jpg
 creator:
   author:
     agent_name: Heckewelder, John
     gutenberg_agent_id: '45830'
     url: http://www.gutenberg.org/2009/agents/45830
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50350#History-Manners-and-Customs-of-The-Indian-Nations-who-once-Inhabited-Pennsylvania-and-the-Nei_
 gutenberg_issued: '2015-10-31'
 gutenberg_type: Text
 identifiers:
