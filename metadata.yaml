@@ -24,6 +24,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: History, Manners, and Customs of The Indian Nations who once Inhabited Pennsylvania
   and the Neighbouring States.
 url: http://www.gutenberg.org/ebooks/50350
